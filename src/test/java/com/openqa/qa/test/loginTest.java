@@ -16,9 +16,9 @@ import com.opencart.qa.utility.excelUtility;
 
 public class loginTest 
 {
-	WebDriver driver;
-	excelUtility eutils;
-	excelReader ereader;
+	public WebDriver driver;
+	public excelUtility eutils;
+	public excelReader ereader;
 	
 	@DataProvider
 	public Object[][] readExcelData()
