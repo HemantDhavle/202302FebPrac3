@@ -8,6 +8,7 @@ public class registerTest
 	{
 		System.out.println("Enter the user and password and click on login button");
 		System.out.println(name +"  registered successfully");
+		System.out.println("abcsdas");
 	}
 
 }
