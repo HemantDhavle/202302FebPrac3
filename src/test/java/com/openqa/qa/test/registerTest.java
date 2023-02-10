@@ -6,6 +6,7 @@ public class registerTest
 	
 	public void doRegistration()
 	{
+		System.out.println("Enter the user and password and click on login button");
 		System.out.println(name +"  registered successfully");
 	}
 
